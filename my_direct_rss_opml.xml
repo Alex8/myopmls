@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>My Direct RSS Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="AliBuy" xmlUrl="https://ali-buy.com/feed/" htmlUrl="https://ali-buy.com" />
+    </outline>
+  </body>
+</opml>
+
