@@ -5,8 +5,8 @@
   </head>
   <body>
     <outline text="feeds">
-      <outline type="rss" text="mygh-AliBuy" xmlUrl="https://ali-buy.com/feed/" htmlUrl="https://ali-buy.com" />
-      <outline type="rss" text="mygh-Moovit Updates" xmlUrl="https://updates.moovit.com/feed/?lang=he" htmlUrl="https://updates.moovit.com" />
+      <outline type="rss" text="mygh - AliBuy" xmlUrl="https://ali-buy.com/feed/" htmlUrl="https://ali-buy.com" />
+      <outline type="rss" text="mygh - Moovit Updates" xmlUrl="https://updates.moovit.com/feed/?lang=he" htmlUrl="https://updates.moovit.com" />
     </outline>
   </body>
 </opml>
