@@ -33,6 +33,7 @@
       <outline type="rss" text="Радио-Т" xmlUrl="http://feeds.rucast.net/radio-t" />
       <outline type="rss" text="קטעים" xmlUrl="https://historia.co.il/feed/podcast" />
       <outline type="rss" text="קטעים" xmlUrl="https://historia.co.il/feed/" />
+      <outline type="rss" text="סוכן משולש: פודקאסט על מודיעין וריגול" xmlUrl="https://feed.podbean.com/dannyorbach/feed.xml" />
     </outline>
   </body>
 </opml>
