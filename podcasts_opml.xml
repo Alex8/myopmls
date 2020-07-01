@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <opml version="1.0">
   <head>
-    <title>Pocket Casts Feeds</title>
+    <title>My podcast feeds</title>
   </head>
   <body>
     <outline text="feeds">
@@ -26,7 +26,6 @@
       <outline type="rss" text="הפודקסט של היסטוריה גדולה בקטנה" xmlUrl="http://feeds.feedburner.com/historia-il" />
       <outline type="rss" text="אמא אמא. עינת נתן והילה קורח" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:13815490/sounds.rss" />
       <outline type="rss" text="עבר פלילי" xmlUrl="https://feed.podbean.com/plyly/feed.xml" />
-      <outline type="rss" text="Stuff You Should Know" xmlUrl="https://feeds.megaphone.fm/stuffyoushouldknow" />
       <outline type="rss" text="עושים היסטוריה עם רן לוי Making History with Ran Levi" xmlUrl="https://www.spreaker.com/show/4227531/episodes/feed" />
       <outline type="rss" text="מסע הקסם המיסתורי - סיפורה של להקת החיפושיות" xmlUrl="http://www.icast.co.il/Rss.aspx?ID=371587" />
       <outline type="rss" text="סיפורים מהניידת" xmlUrl="https://www.ranlevi.com/feed/police_pod/" />
@@ -35,5 +34,10 @@
       <outline type="rss" text="קטעים" xmlUrl="https://historia.co.il/feed/" />
       <outline type="rss" text="סוכן משולש: פודקאסט על מודיעין וריגול" xmlUrl="https://feed.podbean.com/dannyorbach/feed.xml" />
     </outline>
+    
+    <!-- Past/unsubscribed feeds section:
+      <outline type="rss" text="Stuff You Should Know" xmlUrl="https://feeds.megaphone.fm/stuffyoushouldknow" />
+    -->
+      
   </body>
 </opml>
