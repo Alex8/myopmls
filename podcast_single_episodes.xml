@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>my podcast feed</title>
+
+<!-- Template:
+	<item>
+		<title>my title</title>
+		<link>https://www.ranlevi.co.il/2020/08/12/osim-nadlan-ep31/</link>
+		<pubDate>Wed, 12 Aug 2020 11:10:36 +0000</pubDate>
+		<guid isPermaLink="false">https://www.ranlevi.co.il/?p=52039</guid>
+		<description>my description</description>
+		<enclosure url="https://api.spreaker.com/v2/episodes/40281029/download.mp3" length="28484674" type="audio/mpeg" />
+	</item>
+-->
+
+	<item>
+		<title>[עושים טכנולוגיה] חדשנות או ניצול: רובין-הוד</title>
+		<link>https://www.osimhistoria.com/tech/episode/78d2db89/-</link>
+<!--
+		<pubDate>Wed, 12 Aug 2020 11:10:36 +0000</pubDate>
+        <guid isPermaLink="false">https://www.ranlevi.co.il/?p=52039</guid>
+-->
+		<description>my description</description>
+		<enclosure url="https://api.spreaker.com/download/episode/40352728/robin_mst.mp3" type="audio/mpeg" />
+	</item>
+
+<!--
+    <item>
+        <title>[עושים טכנולוגיה] חדשנות או ניצול: רובין-הוד</title>
+        <link>https://www.spreaker.com/user/pimedia/robin-mst</link>
+        <description><![CDATA[רובין-הוד היא אפליקציה למסחר בבורסה ובשנה האחרונה היא הפכה לתופעה כלכלית-תרבותית ששטפה את ארצות הברית. האפליקציה פופולארית במיוחד בקרב צעירים חסרי ניסיון בעולם ההשקעות שנלהבים להיכנס לשוק ההון ונדחפים להשקיע כסף באמצעות ממשק שמשלב את עקרונות הפעולה של פייסבוק ומשחקי וידאו. איך רובין-הוד עושה כסף למרות שהיא לא גובה כסף מהמשתמשים והאם מתחת למעטה החדשנות מסתתר מודל עסקי שמנצל את חולשות אנושיות ומוביל אותם להפסדים?<br /><br />**כיוון שאתר הרשת עובר תחזוקה - תוכלו למצוא את טופס ההרשמה לאירוע הקלטת פרק בשידור חי בעמוד הפייסבוק של רשת עושים היסטוריה!**<br /><br />קישורים:<br />רובין הוד: כתבת הפרופיל של הניו-יורק טיימס<br /><a href="https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html" rel="noopener">https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html</a><br /><br />מישחוק של מסחר בבורסה<br /><a href="http://www.muckle.online/investing-apps/gamified-investing-apps-could-seriously-damage-millennials-wealth/" rel="noopener">http://www.muckle.online/investing-apps/gamified-investing-apps-could-seriously-damage-millennials-wealth/</a><br /><br /><br /><br /><a href="http://www.ads.ranlevi.com/2020/08/16/medulla-osimtech-robinhood/" rel="noopener">http://www.ads.ranlevi.com/2020/08/16/medulla-osimtech-robinhood/</a>]]></description>
+        <guid isPermaLink="false">https://api.spreaker.com/episode/40352728</guid>
+        <pubDate>Sun, 16 Aug 2020 13:03:39 +0000</pubDate>
+        <enclosure url="https://api.spreaker.com/download/episode/40352728/robin_mst.mp3" length="40218573" type="audio/mpeg"/>
+        <itunes:author>PI Media</itunes:author>
+        <itunes:subtitle>רובין-הוד היא אפליקציה למסחר בבורסה ובשנה האחרונה היא הפכה לתופעה כלכלית-תרבותית ששטפה את ארצות הברית. האפליקציה פופולארית במיוחד בקרב צעירים חסרי ניסיון בעולם ההשקעות שנלהבים להיכנס לשוק ההון ונדחפים להשקיע כסף באמצעות ממשק שמשלב את עקרונות הפעולה של...</itunes:subtitle><itunes:summary><![CDATA[רובין-הוד היא אפליקציה למסחר בבורסה ובשנה האחרונה היא הפכה לתופעה כלכלית-תרבותית ששטפה את ארצות הברית. האפליקציה פופולארית במיוחד בקרב צעירים חסרי ניסיון בעולם ההשקעות שנלהבים להיכנס לשוק ההון ונדחפים להשקיע כסף באמצעות ממשק שמשלב את עקרונות הפעולה של פייסבוק ומשחקי וידאו. איך רובין-הוד עושה כסף למרות שהיא לא גובה כסף מהמשתמשים והאם מתחת למעטה החדשנות מסתתר מודל עסקי שמנצל את חולשות אנושיות ומוביל אותם להפסדים?<br /><br />**כיוון שאתר הרשת עובר תחזוקה - תוכלו למצוא את טופס ההרשמה לאירוע הקלטת פרק בשידור חי בעמוד הפייסבוק של רשת עושים היסטוריה!**<br /><br />קישורים:<br />רובין הוד: כתבת הפרופיל של הניו-יורק טיימס<br /><a href="https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html" rel="noopener">https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html</a><br /><br />מישחוק של מסחר בבורסה<br /><a href="http://www.muckle.online/investing-apps/gamified-investing-apps-could-seriously-damage-millennials-wealth/" rel="noopener">http://www.muckle.online/investing-apps/gamified-investing-apps-could-seriously-damage-millennials-wealth/</a><br /><br /><br /><br /><a href="http://www.ads.ranlevi.com/2020/08/16/medulla-osimtech-robinhood/" rel="noopener">http://www.ads.ranlevi.com/2020/08/16/medulla-osimtech-robinhood/</a>]]></itunes:summary><itunes:duration>2828</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4b8baadc54c66ed53edecb86be4821f3.jpg"/><itunes:episodeType>full</itunes:episodeType><googleplay:author>PI Media</googleplay:author><googleplay:description>רובין-הוד היא אפליקציה למסחר בבורסה ובשנה האחרונה היא הפכה לתופעה כלכלית-תרבותית ששטפה את ארצות הברית. האפליקציה פופולארית במיוחד בקרב צעירים חסרי ניסיון בעולם ההשקעות שנלהבים להיכנס לשוק ההון ונדחפים להשקיע כסף באמצעות ממשק שמשלב את עקרונות הפעולה של פייסבוק ומשחקי וידאו. איך רובין-הוד עושה כסף למרות שהיא לא גובה כסף מהמשתמשים והאם מתחת למעטה החדשנות מסתתר מודל עסקי שמנצל את חולשות אנושיות ומוביל אותם להפסדים?
+
+**כיוון שאתר הרשת עובר תחזוקה - תוכלו למצוא את טופס ההרשמה לאירוע הקלטת פרק בשידור חי בעמוד הפייסבוק של רשת עושים היסטוריה!**
+
+קישורים:
+רובין הוד: כתבת הפרופיל של הניו-יורק טיימס
+https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html
+
+מישחוק של מסחר בבורסה
+http://www.muckle.online/investing-apps/gamified-investing-apps-could-seriously-damage-millennials-wealth/
+
+
+
+http://www.ads.ranlevi.com/2020/08/16/medulla-osimtech-robinhood/</googleplay:description><googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4b8baadc54c66ed53edecb86be4821f3.jpg"/><googleplay:explicit>No</googleplay:explicit></item>
+
+-->
+
+</channel>
+</rss>
