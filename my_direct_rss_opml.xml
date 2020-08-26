@@ -9,6 +9,7 @@
       <outline type="rss" text="mygh - Moovit Updates" xmlUrl="https://updates.moovit.com/feed/?lang=he" htmlUrl="https://updates.moovit.com" />
       <outline type="rss" text="mygh - The Mailinator Blog" xmlUrl="https://manybrain.github.io/m8r_blog/index.xml" htmlUrl="https://manybrain.github.io/m8r_blog/" />
       <outline type="rss" text="mygh - Have I Been Pwned" xmlUrl="https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/" />
+      <outline type="rss" text="mygh - Pinkhas Nisanov" xmlUrl="https://nisanovblog.blogspot.com/" htmlUrl="https://nisanovblog.blogspot.com/" />
     </outline>
   </body>
 </opml>
