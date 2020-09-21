@@ -11,6 +11,7 @@
       <outline type="rss" text="mygh - Have I Been Pwned" xmlUrl="https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/" />
       <outline type="rss" text="mygh - Pinkhas Nisanov" xmlUrl="https://nisanovblog.blogspot.com/" htmlUrl="https://nisanovblog.blogspot.com/" />
       <outline type="rss" text="mygh - HomeTheater Deals" xmlUrl="https://www.hometheater.co.il/f110.xml" htmlUrl="https://www.hometheater.co.il/forum110" />
+      <outline type="rss" text="mygh - Sysinternals" xmlUrl="https://docs.microsoft.com/en-us/archive/blogs/sysinternals/feed.xml" htmlUrl="https://docs.microsoft.com/en-us/sysinternals/" />
     </outline>
   </body>
 </opml>
