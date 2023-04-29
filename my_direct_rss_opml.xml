@@ -15,6 +15,49 @@
       <outline type="rss" text="mygh - G Suite Status Dashboard" xmlUrl="https://www.google.com/appsstatus/rss/en" htmlUrl="https://www.google.com/appsstatus" />
       <outline type="rss" text="mygh - I Need It" xmlUrl="https://ineedit.co.il/feed/" htmlUrl="https://ineedit.co.il/" />
       <outline type="rss" text="mygh - Project Zero" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/" />
+
+<!-- ported from feed43: -->
+      <outline type="rss" text="mygh - calcalist comverse news" xmlUrl="https://www.calcalist.co.il/Ext/Comp/Allday/CdaStockNews_Xml/0,15250,L-70010079-1-0-1-50,00.xml"
+               htmlUrl="http://www.calcalist.co.il/Ext/Comp/Allday/CdaStockNews_Xml/0,15250,L-70010079-1-0-1-50,00.xml" />
+      <outline type="rss" text="mygh - AliBuy" xmlUrl="https://ali-buy.com/feed/" htmlUrl="https://ali-buy.com/" />
+      <outline type="rss" text="mygh - ayalonhw-events" xmlUrl="https://www.ayalonhw.co.il/events/feed/" htmlUrl="https://www.ayalonhw.co.il/" />
+<!--  site not exist anymore     <outline type="rss" text="mygh - altroxin.co.il - NO EXTRACT" xmlUrl="http://www.altroxin.co.il/" htmlUrl="http://www.altroxin.co.il/" /> -->
+      <outline type="rss" text="mygh - Moovit Updates-he" xmlUrl="https://updates.moovit.com/feed/?lang=he" htmlUrl="https://updates.moovit.com/homepage-he/" />
+      <outline type="rss" text="mygh - p-mada" xmlUrl="https://pmada.schooly.co.il/feed/" htmlUrl="https://pmada.schooly.co.il/" />
+      <outline type="rss" text="mygh - tabmixplus.org - Change Log - NO EXTRACT" xmlUrl="https://tabmixplus.org/support/viewtopic.php?t=1"
+                                                                   htmlUrl="https://tabmixplus.org/support/viewtopic.php?t=1" />
+      <outline type="rss" text="mygh - K-Lite CodecPack - NO EXTRACT" xmlUrl="http://codecguide.com/" htmlUrl="http://codecguide.com/" />
+<!--  Not published anymore     <outline type="rss" text="mygh - Dilbert - NO EXTRACT" xmlUrl="http://dilbert.com/" htmlUrl="http://dilbert.com/" /> -->
+      <outline type="rss" text="mygh - kartina.tv - actions - NO EXTRACT" xmlUrl="http://iptv.kartina.tv/actions/" htmlUrl="http://iptv.kartina.tv/actions/" />
+      <outline type="rss" text="mygh - LiveJournal Friends History" xmlUrl="http://spacefem.com/livejournal/history.php?username=Alex8"
+                                                                   htmlUrl="http://spacefem.com/livejournal/history.php?username=Alex8" />
+<!--       <outline type="rss" text="mygh - local.co.il/rehovot - NO EXTRACT" xmlUrl="http://local.co.il/rehovot/" htmlUrl="http://local.co.il/rehovot/" /> -->
+      <outline type="rss" text="mygh - MoriDim.me - series" xmlUrl="https://moridim.me/rss.xml"
+               htmlUrl="https://moridim.me/%D7%A1%D7%93%D7%A8%D7%95%D7%AA/%D7%9B%D7%9C-%D7%94%D7%A1%D7%93%D7%A8%D7%95%D7%AA/" />
+      <outline type="rss" text="mygh - mynet - Rehovot - NO EXTRACT" xmlUrl="https://rehovot.mynet.co.il/" htmlUrl="https://rehovot.mynet.co.il/" />
+      <outline type="rss" text="mygh - Tania - shows - NO EXTRACT" xmlUrl="http://www.taniavinokur.com/#!blank/c1hsb"
+                                                                  htmlUrl="http://www.taniavinokur.com/#!blank/c1hsb" />
+      <outline type="rss" text="mygh - TD-W9980-tp-link.com - NO EXTRACT" xmlUrl="https://www.tp-link.com/en/support/download/td-w9980/v1/"
+                                                                         htmlUrl="https://www.tp-link.com/en/support/download/td-w9980/v1/" />
+      <outline type="rss" text="mygh - TD-W9980-tplink.com - NO EXTRACT" xmlUrl="https://www.tp-link.com/uk/support/download/td-w9980/"
+                                                                        htmlUrl="https://www.tp-link.com/uk/support/download/td-w9980/" />
+      <outline type="rss" text="mygh - TVNetil.net" xmlUrl="https://www.tvnetil.net/rss.xml" htmlUrl="https://www.tvnetil.net/reviews/" />
+      <outline type="rss" text="mygh - Dolev twitter - NO EXTRACT" xmlUrl="https://twitter.com/dolev" htmlUrl="https://twitter.com/dolev" />
+      <outline type="rss" text="mygh - tzafonet.org.il - RSS herum - NO EXTRACT" xmlUrl="https://sites.google.com/a/tzafonet.org.il/rssh/"
+               htmlUrl="https://sites.google.com/a/tzafonet.org.il/rssh/" />
+<!-- Site not answers      <outline type="rss" text="mygh - WD Product Update - wdfWDTV_Live_G3 - NO EXTRACT" xmlUrl="http://wdc.com/wdproducts/updates/?family=wdfWDTV_Live_G3"
+               htmlUrl="http://wdc.com/wdproducts/updates/?family=wdfWDTV_Live_G3" />
+ -->
+      <outline type="rss" text="mygh - Что? Где? Когда?. Первый канал - NO EXTRACT" xmlUrl="https://www.1tv.ru/shows/chto-gde-kogda"
+               htmlUrl="https://www.1tv.ru/shows/chto-gde-kogda" />
+
+<!-- end of ported from feed43 -->
+
+
+<!-- template:
+      <outline type="rss" text="mygh - I Need It" xmlUrl="https://ineedit.co.il/feed/" htmlUrl="https://ineedit.co.il/" />
+ -->
+
     </outline>
   </body>
 </opml>
